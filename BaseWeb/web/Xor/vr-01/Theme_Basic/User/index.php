@@ -12,14 +12,16 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">	
 		<link rel="icon" type="image/png" href="">
 		<link rel="icon" href="" sizes="32x32">	
-		<link rel="stylesheet" href="/GitHub/XorAi/Xor/css&amp;v=33">
+		<link rel="stylesheet" href="/BaseWeb/BaseWeb/web/Xor/MainCSS.css">
 		<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>	
 	</head>
     <body>
 		<webs >
 			<?php 
 
+			include 'Function.php';
 			include 'web.php';
+			
 			
 			 ?>
 		</webs>
